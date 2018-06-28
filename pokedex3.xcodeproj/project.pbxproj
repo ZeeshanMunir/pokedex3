@@ -15,6 +15,7 @@
 		A30D204320E4C12D0089D9A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A30D204120E4C12D0089D9A0 /* LaunchScreen.storyboard */; };
 		A30D204E20E4C12E0089D9A0 /* pokedex3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30D204D20E4C12E0089D9A0 /* pokedex3Tests.swift */; };
 		A30D205920E4C12E0089D9A0 /* pokedex3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30D205820E4C12E0089D9A0 /* pokedex3UITests.swift */; };
+		A30D206720E4C6890089D9A0 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = A30D206620E4C6860089D9A0 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A30D205420E4C12E0089D9A0 /* pokedex3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pokedex3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A30D205820E4C12E0089D9A0 /* pokedex3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokedex3UITests.swift; sourceTree = "<group>"; };
 		A30D205A20E4C12E0089D9A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A30D206620E4C6860089D9A0 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A30D203720E4C1260089D9A0 /* ViewController.swift */,
 				A30D203920E4C1260089D9A0 /* Main.storyboard */,
 				A30D203F20E4C12D0089D9A0 /* Assets.xcassets */,
+				A30D206620E4C6860089D9A0 /* pokemon.csv */,
 				A30D204120E4C12D0089D9A0 /* LaunchScreen.storyboard */,
 				A30D204420E4C12D0089D9A0 /* Info.plist */,
 				A30D203C20E4C1260089D9A0 /* pokedex3.xcdatamodeld */,
@@ -234,6 +237,7 @@
 			files = (
 				A30D204320E4C12D0089D9A0 /* LaunchScreen.storyboard in Resources */,
 				A30D204020E4C12D0089D9A0 /* Assets.xcassets in Resources */,
+				A30D206720E4C6890089D9A0 /* pokemon.csv in Resources */,
 				A30D203B20E4C1260089D9A0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
